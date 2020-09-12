@@ -63,7 +63,7 @@ padding-top:200px ;
      background-color: #a6ffb2 ;
      color:#40e000;
  }
-#fourth{
+.bg{
     height:130vh;
     clip-path: polygon(100% 0%, 0% 8%, 0% 100%, 100% 91%);
     background-color:rgb(238, 237, 237);
@@ -100,5 +100,4 @@ padding-top:200px ;
 }
 #hoo{
     position: absolute;
-   z-index: -1;
 }
