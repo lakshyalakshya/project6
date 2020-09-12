@@ -1,0 +1,104 @@
+a:hover{
+    text-decoration:none;
+}
+#logo{
+    padding-top: 15px;
+}
+.yo{
+    font-size:10px;
+}
+#header{
+    background-color:white;
+    padding: 15px 15px;
+    
+}
+#menu{
+list-style: none;
+margin: 0%;
+padding: 0%;
+
+}
+#menu li{
+display: inline-block;
+font-size:18px;
+
+}
+#menu li a{
+  padding: 15px 10px;
+  display: block;
+color: gray;
+
+}
+#second{
+background-image: url("https://www.transparenttextures.com/patterns/inspiration-geometry.png");
+ background-color: #6900c7;
+ height:110vh;
+ clip-path: polygon(100% 0%, 0% 0%, 0% 100%, 100% 91%);
+
+
+}
+.sec{
+padding-top:200px ;
+}
+#head1{
+    color: white;
+}
+#para1{
+    font-size: 20px;
+    color:lightgray;
+}
+.sec2{
+    padding-top:100px ;
+    }
+    .sec3{
+        padding-top:140px ;
+        }
+ #third{
+    height:30vh;
+   
+
+
+ }  
+ .ball{
+     background-color: #a6ffb2 ;
+     color:#40e000;
+ }
+#fourth{
+    height:130vh;
+    clip-path: polygon(100% 0%, 0% 8%, 0% 100%, 100% 91%);
+    background-color:rgb(238, 237, 237);
+
+}
+.hi{
+    padding-top: 1rem !important;
+    padding: 1.6rem;
+    border-radius: 50%;
+    background-color: #a6ffb2;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+}
+.hii{
+    color:#40e000 !important;
+}
+.cat{
+    color: #323f52;
+    font-weight: 500 !important;
+
+}
+
+.dog{
+    color: #687281;
+    font-weight: 400 !important;
+}
+#fourth .card {
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(31,45,65,.15);
+    overflow: hidden;
+    position: relative;
+    padding: 3rem;
+    margin-bottom: 3rem;
+}
+#hoo{
+    position: absolute;
+   z-index: -1;
+}
